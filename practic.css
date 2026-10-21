@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+body {
+    background: url('https://avatars.mds.yandex.net/i?id=857e4eb049a3ffdea64a1c0b16466fc90757d4b1-10241101-images-thumbs&n=13') no-repeat center top;
+min-height: 100vh;
+background-size: cover;
+background-attachment: fixed;
+font-family: "Borel", cursive;
+  font-weight: 400;
+  font-style: italic;
+}
+h1 {
+color: #fff;
+text-transform: uppercase;
+font-size: 2.5em;
+text-align: center;
+text-shadow: 2px 2px 4px black;
+}
+h2 {
+    color: darkblue;
+    font-style: italic;
+    font-size: 1.8em;
+}
+.date {
+    color: darkgray;
+    font-size: 0.9em;
+    font-style: italic;
+    text-shadow:  2px 2px 4px black;
+}
+.date::before {
+    content: "📅"
+}
+.main-p1 {
+    color: black;
+    font-size: 1.2em;
+    text-align: justify;
+    line-height: 1.6em;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.btn {
+    color: #fff;
+    text-decoration: none;
+    background-color: black;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.btn:hover {
+    background-color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}
+h1::after {
+    content: "-выпуск 2026";
+    color: orange;
+}
+
+
+
+
+
+
