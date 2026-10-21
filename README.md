@@ -17,5 +17,5 @@
 - Делать тени для текста, чтобы он читался на фоне
 
 ## Как посмотреть
-- [Открыть index.html](https://github.com/insafhalilov0-lab/travel-journal/blob/practic.html)
+- [Открыть index.html](https://github.com/insafhalilov0-lab/travel-journal/blob/main/practic.html)
 - [Открыть practic.css](https://github.com/insafhalilov0-lab/travel-journal/blob/main/practic.css)
